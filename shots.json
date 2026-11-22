@@ -1,0 +1,22 @@
+[
+  {
+    "name": "1-cover.png",
+    "query": "?shot=cover",
+    "wait": 2400
+  },
+  {
+    "name": "2-drive.png",
+    "query": "?shot=drive",
+    "wait": 2400
+  },
+  {
+    "name": "3-chase.png",
+    "query": "?shot=chase",
+    "wait": 2400
+  },
+  {
+    "name": "4-mission.png",
+    "query": "?shot=mission",
+    "wait": 2400
+  }
+]
